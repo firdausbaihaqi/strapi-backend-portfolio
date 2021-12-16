@@ -38,8 +38,8 @@
       "targetField": "Title"
     },
     "technologies": {
-      "collection": "technologies",
       "via": "projects",
+      "collection": "technologies",
       "dominant": true
     }
   }
