@@ -41,6 +41,9 @@
       "via": "projects",
       "collection": "technologies",
       "dominant": true
+    },
+    "ShortDescription": {
+      "type": "text"
     }
   }
 }
