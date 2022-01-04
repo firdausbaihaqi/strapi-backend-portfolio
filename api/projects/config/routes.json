@@ -18,15 +18,7 @@
     },
     {
       "method": "GET",
-      "path": "/projects/:id",
-      "handler": "projects.findOne",
-      "config": {
-        "policies": []
-      }
-    },
-    {
-      "method": "GET",
-      "path": "/projects/:slug",
+      "path": "/projects/:Slug",
       "handler": "projects.findOne",
       "config": {
         "policies": []
