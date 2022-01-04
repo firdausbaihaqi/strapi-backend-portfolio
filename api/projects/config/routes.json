@@ -25,6 +25,14 @@
       }
     },
     {
+      "method": "GET",
+      "path": "/projects/:slug",
+      "handler": "projects.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
       "method": "POST",
       "path": "/projects",
       "handler": "projects.create",
