@@ -44,6 +44,12 @@
     },
     "ShortDescription": {
       "type": "text"
+    },
+    "repository": {
+      "type": "string"
+    },
+    "liveDemo": {
+      "type": "string"
     }
   }
 }
